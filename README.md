@@ -6,7 +6,7 @@
 
 ## 🔭 Work
  - I’m currently working on a csgo cheat
-[![Languages](https://git-stats-tau.vercel.app/api/top-langs/?username=NaiJii&count_private=true)](https://github.com/NaiJii)
+ - [![Languages](https://git-stats-tau.vercel.app/api/top-langs/?username=NaiJii&count_private=true)](https://github.com/NaiJii)
 
 ## ☎️ Contact
  - Discord : jii#8951
