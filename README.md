@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## 📖 About Me
  - C++ Windows software dev & reverse engineer beginner 
  - [Youtube](https://www.youtube.com/channel/UChpTYSEusBzQH9293srmZ9w)
