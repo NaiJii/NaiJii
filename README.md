@@ -1,6 +1,5 @@
 ## 📖 About Me
- - C++ Windows software dev & reverse engineer beginner 
- - [Youtube](https://www.youtube.com/channel/UChpTYSEusBzQH9293srmZ9w)
+ C++ Windows software dev & reverse engineer beginner 
 
 ## 🔭 Work
  - I worked on an internal csgo cheat
@@ -10,7 +9,7 @@
 
 ## ☎️ Contact
  - Discord : jii#8951
-
+ - [Youtube](https://www.youtube.com/channel/UChpTYSEusBzQH9293srmZ9w)
 [![Stats](https://git-stats-tau.vercel.app/api?theme=tokyonight&include_all_commits=true&count_private=true&username=NaiJii&show_icons=true)](https://github.com/NaiJii)
 
 
