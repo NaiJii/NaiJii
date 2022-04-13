@@ -4,8 +4,9 @@
 ## 🔭 Work
  - I worked on an internal csgo cheat
  - I'm currently working on an apex external cheat :
- - [Youtube](https://www.youtube.com/watch?v=95YjJEPp9QQ)
- - [Youtube](https://youtu.be/ghgmfqCz1Gw)
+ 
+ [![1](https://img.youtube.com/vi/95YjJEPp9QQ/0.jpg)](https://www.youtube.com/watch?v=95YjJEPp9QQ)
+ [![2](https://img.youtube.com/vi/ghgmfqCz1Gw/0.jpg)](https://www.youtube.com/watch?v=ghgmfqCz1Gw)
 
 ## ☎️ Contact
  - Discord : jii#8951
