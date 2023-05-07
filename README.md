@@ -1,10 +1,12 @@
 ## 📖 About Me
- C++ Windows software dev & reverse engineer beginner 
+ C++ Dev
+ Windows  
+ Reverse Engineering 
 
 ## 🔭 Work
  - I worked on an internal csgo cheat
  - I worked on an apex external cheat 
- - I'm working on an apex internal cheat for fun
+ - I worked on an apex internal cheat
  
  [![1](https://img.youtube.com/vi/95YjJEPp9QQ/0.jpg)](https://www.youtube.com/watch?v=95YjJEPp9QQ)
  [![2](https://img.youtube.com/vi/ghgmfqCz1Gw/0.jpg)](https://www.youtube.com/watch?v=ghgmfqCz1Gw)
